@@ -14,8 +14,6 @@ class SomeClass
   end
 
   def method_with_required_keyword_arguments(one:, two:)
-    @one = one
-    @two = two
   end
 
   def method_with_multiline_block
